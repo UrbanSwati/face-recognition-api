@@ -164,3 +164,4 @@ cython_debug/
 !.elasticbeanstalk/*.global.yml
 .venv
 dlib
+.vscode
